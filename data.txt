@@ -1,0 +1,25 @@
+Compound Name,Site A,Site B,Site C
+Butachlor (Machete),223946,175011,23657
+Napropamide,12538,10639,12217
+Estriol,211027,20301,287810
+Avobenzone (BM-DBM),161399,215063,230327
+Sibutramine,199311,200701,167158
+Nefazodone,0,70732,79963
+Narasin,84433,78173,73389
+Erythromycin,61223,59400,64178
+Dextilidine (Tilidine),62705,55333,59747
+Clozapine,48454,42943,36943
+4-Hydroxyantipyrine,45983,37335,31383
+Temazepam,0,0,22903
+Sulfaquinoxaline,0,0,22229
+Morphine-d3,16835,16940,21685
+Apramycin,12898,16099,18596
+Tolycaine,17480,17819,14755
+Procainamide,14207,11384,11883
+Zilpaterol,12176,11128,10909
+Tramadol-N-oxide,14245,13350,9812
+Abacavir,12677,9144,9376
+Erythromycin A dihydrate-C13,20741,5177,4630
+Mepivacaine,13092,0,0
+Bis(2-ethylhexyl) phthalate (DEHP),14031,138550,20800
+Clarithromycin-N-oxide,0,0,21220
